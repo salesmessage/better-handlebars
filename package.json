@@ -1,11 +1,10 @@
 {
   "name": "better-handlebars",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Better Handlebars for Atom",
   "repository": "https://github.com/WMeldon/better-handlebars",
   "license": "MIT",
   "engines": {
-    "atom": "*",
     "node": "*"
   },
   "dependencies": {}
