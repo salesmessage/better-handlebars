@@ -5,7 +5,8 @@
   "repository": "https://github.com/WMeldon/better-handlebars",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": "*",
+    "node": "*"
   },
   "dependencies": {}
 }
